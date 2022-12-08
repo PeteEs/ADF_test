@@ -1,0 +1,9 @@
+{
+	"name": "adfwithrepotest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6308eb2-0dbb-448e-a716-ca1c578092d7",
+		"tenantId": "2ee548e1-6be8-4729-b86e-f482e29d2c9f"
+	}
+}
